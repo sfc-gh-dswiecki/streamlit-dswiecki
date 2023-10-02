@@ -1,14 +1,6 @@
+# Welcome to Streamlit 2023-09-26!
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]({DEPLOYED_APP_URL)
+Edit `/streamlit_app.py` to customize this app to your heart's desire. :heart:
 
-# 🎈 {APP_EMOJI} {APP_NAME}
-
-{APP_SHORT_DESCRIPTION}
-
-{APP_SCREENSHOT}
-
-{...}
-
-### Questions? Comments?
-
-Please ask in the [Streamlit community](https://discuss.streamlit.io).
+If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
+forums](https://discuss.streamlit.io).
