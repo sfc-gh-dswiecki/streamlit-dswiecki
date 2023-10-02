@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 
 """
-# Welcome to Streamlit dswiecki app is made private 2023-10-02! 
+# Welcome to Streamlit dswiecki app and repo is made private 2023-10-02! 
 
 Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
 
